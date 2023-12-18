@@ -1,1 +1,3 @@
 # wordpress-sec
+
+shell script wordpress ....
